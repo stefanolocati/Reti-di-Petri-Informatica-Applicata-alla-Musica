@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v4.3 U (http://www.xmlspy.com) by LEGO (LEGO) -->
+<!DOCTYPE mx SYSTEM "MX.dtd">
+<mx>
+	<general>
+		<description>
+			<movement_title/>
+			<author/>
+		</description>
+	</general>
+	<logic>
+		<spine>
+			<event id="clef_0" hpos="4"/>
+			<event id="timesig_0" hpos="9"/>
+			<event id="rest_0" timing="0" hpos="9"/>
+			<event id="barline_0" hpos="10"/>
+		</spine>
+		<los>
+			<staff_list>
+				<staff id="staff0">
+					<clef type="G" event_ref="clef_0" staff_step="2"/>
+					<time_signature num="4" den="4" event_ref="timesig_0" vtu_amount="64"/>
+					<barline id="b_1" event_ref="barline_0"/>
+				</staff>
+			</staff_list>
+			<part id="part1" dfstaff_ref="staff0">
+				<voice_list>
+					<voice_item id="voice1"/>
+				</voice_list>
+				<measure number="1">
+					<voice ref="voice1">
+						<rest staff_ref="staff0" event_ref="rest_0">
+							<duration num="4" den="4"/>
+						</rest>
+					</voice>
+				</measure>
+			</part>
+			<horizontal_symbols/>
+		</los>
+	</logic>
+</mx>
