@@ -15,16 +15,15 @@ Struttura Sottorete Intro:
 
 Struttura Sottorete A:
 
-![Screenshot (5)](https://user-images.githubusercontent.com/59931596/193449046-1bdbd540-6be4-49be-9be2-43400e048874.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/59931596/193449151-5d1040df-10ce-4394-97e6-26072c4c98c9.png)
 
 Struttura Sottorete B:
 
-![Screenshot (7)](https://user-images.githubusercontent.com/59931596/193449074-6a6a75ad-fc3e-4292-9e50-10afd470c4cf.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/59931596/193449159-2ec8ca97-b0f0-41a0-9e5d-1e28e4fffdd0.png)
 
 Struttura Sottorete Ritornello:
 
-![Screenshot (9)](https://user-images.githubusercontent.com/59931596/193449087-53e9cb6f-4920-4b42-baa9-4fcfea7f93d3.png)
-
+![Screenshot (9)](https://user-images.githubusercontent.com/59931596/193449163-01149ff8-fde5-48aa-b2fc-14fa4284224e.png)
 
 
 ### Linguaggi Utilizzati
